@@ -1,2 +1,3 @@
-# myrepo2\n adding a line
-\n adding another  line
+# myrepo2 
+adding a line
+adding another  line
